@@ -126,3 +126,12 @@ footer.wp-block-template-part a[href="https://andersnoren.se"] {
 footer.wp-block-template-part a[href="https://andersnoren.se"]:hover {
 	text-decoration: underline;
 }
+
+.bottom_project_image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 300px;
+	height: auto;
+	padding-top: 30px;
+}
